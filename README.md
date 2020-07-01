@@ -1,2 +1,2 @@
 # Leetcode
-Leetcode record
+Leetcode record!
